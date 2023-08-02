@@ -1,5 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1237" alt="Screenshot 2023-08-01 at 8 38 40 PM" src="https://github.com/ahmed-eldin/beats-responsive-page/assets/111728755/c50b9a74-ae4c-44f4-85a1-bf179a454a04">
 
 
 # Beats by Dre Responsive Web Page
